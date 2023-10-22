@@ -1,0 +1,30 @@
+ .CodeEditor textarea {
+  width: 70vw;
+  height: 60vh;
+  margin-left: 10vw;
+  font-family: 'Courier New', monospace;
+  white-space: pre;
+  background-color:rgb(213, 210, 210);
+ }
+
+ 
+ 
+ .button-container button {
+  margin-top: 15px;
+  margin-left: 16vw;
+  background-color: rgb(243, 243, 238);
+  border: none;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+
+ }
+
+ button:hover{
+  background-color:rgb(213, 210, 210);
+ }
+ 

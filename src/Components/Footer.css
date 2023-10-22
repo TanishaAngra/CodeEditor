@@ -1,0 +1,11 @@
+.footer{
+    background-color: rgb(51, 50, 50);
+    width: 100vw;
+    height: 15vh;
+}
+.cp-text{ 
+    color: white; 
+    text-shadow: 0 1px gray;
+    text-align: center;
+    padding-top: 50px;
+}

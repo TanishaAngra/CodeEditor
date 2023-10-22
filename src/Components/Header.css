@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-background {
+    background-color: rgb(51, 50, 50);
+    width: 100vw;
+    height: 15vh;
+}
+
+h1 {
+    color: rgba(248, 173, 119, 0.794);
+    font-family: 'Sometype Mono', monospace;
+    font-family: 'Syne', sans-serif;
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
